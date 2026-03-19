@@ -9,6 +9,7 @@
 
 
 <h2> 📜 Degree:</h2>
+<p>University of Nevada, Las Vegas- Lee Business School</p>
 <p>BSBA Information System</p>
 <p>BSBA Finance</p>
 
