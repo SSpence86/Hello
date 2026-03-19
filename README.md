@@ -1,35 +1,19 @@
 <h1>Hi, I'm Shaneka! </h1>
+<p>This GitHub showcases my work in:</p>
+<p>• Financial analysis & forecasting</p>  
+<p>• Data analytics (SQL, Python)</p>  
+<p>• Database design & business intelligence</p>  
+<p>• Risk,governance, & compliance (GRC), internal controls & regulatory concepts</p>  
 
-<h2>👨‍💻 Projects:</h2>
+<p>My goal is to leverage technology and data to support risk management, strengthen compliance processes, and drive smarter financial and operational decisions.</p>
 
-- <b>SQL Practice </b>
-  - *
-- <b>Full Stack Web App </b>
-  - *
-- <b>Python</b>
-  - *
-- <b> Figma Project </b>
-  - *
 
-<h2> 📜 Certifications:</h2>
--*
+<h2> 📜 Degree:</h2>
+<p>BSBA Information System</p>
+<p>BSBA Finance</p>
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="ShanekaSpence | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
 
 [linkedin]: https://linkedin.com/in/s-spence
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
